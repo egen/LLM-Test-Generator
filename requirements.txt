@@ -30,4 +30,4 @@ rsa==4.9
 Shapely==1.8.5.post1
 six==1.16.0
 smmap==5.0.0
-urllib3==1.26.16
+urllib3==1.26.19
